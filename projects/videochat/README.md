@@ -67,7 +67,7 @@ python test.py
 需要包含以下目录和文件
 
 - flan-t5-large-finetuned-openai-summarize_from_feedback 目录
-- uniformerv2 目录
+- uniformerv2 目录(如果没有会自动下载到cache)
 - grit_b_densecap_objectdet.pth
 - tag2text_swin_14m.pth
 - transnetv2-pytorch-weights.pth
